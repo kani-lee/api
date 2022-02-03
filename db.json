@@ -26,11 +26,11 @@
       "title_keywords": {
         "important": [
           { "word": "ワーク", "references_use_rate": 90.0, "use_rate": 5.55 },
-          { "word": "おすすめ", "references_use_rate": 80.0, "use_rate": 5.55 },
+          { "word": "おすすめ", "references_use_rate": 80.0, "use_rate": 15.55 },
           { "word": "ツール", "references_use_rate": 80.0, "use_rate": 5.55 }
         ],
         "relation": [
-          { "word": "在宅", "references_use_rate": 30.0, "use_rate": 3.55 },
+          { "word": "在宅", "references_use_rate": 30.0, "use_rate": 13.55 },
           { "word": "勤務", "references_use_rate": 40.0, "use_rate": 3.55 },
           { "word": "テレワーク", "references_use_rate": 40.0, "use_rate": 3.55 }
         ]
@@ -41,7 +41,7 @@
           { "word": "おすすめ", "references_use_rate": 80.0, "use_rate": 4.44 }
         ],
         "relation": [
-          { "word": "商品","references_use_rate": 70.0, "use_rate": 5.55 },
+          { "word": "商品","references_use_rate": 70.0, "use_rate": 10.55 },
           { "word": "チャット", "references_use_rate": 60.0, "use_rate": 5.55 }
         ]
       },
