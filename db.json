@@ -1,11 +1,12 @@
 {
   "localApi": [
     {
+      "id": 1,
       "search_word": "リモートワーク　おすすめ",
       "min": 6723,
       "max": 15098,
-      "average": average_length,
-       "contents": [
+      "average": 8000,
+      "contents": [
         {
           "topic": "定義と説明",
           "length": 1000,
